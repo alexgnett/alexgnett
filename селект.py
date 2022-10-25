@@ -1,4 +1,5 @@
-sql.SELECT count (*) from information_schema.tables where table_type = "base table"
-sql.SELECT name (*) from information_schema.tables where table_type = "base table"
-sql.SELECT * from users
-sql.SELECT * from grades
+SELECT count (*) from information_schema.tables where table_type = "base table"
+SELECT name (*) from information_schema.tables where table_type = "base table"
+SELECT * from users
+SELECT * from grades
+SELECT * FROM users, grades WHERE users.user_id = grades.user_id
