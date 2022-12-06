@@ -58,10 +58,10 @@ $$ m_{H_{2}O} =V\cdot \rho_{H_{2}O} $$
 
 ```mermaid
 flowchart LR
-    A[Hard] -->|Text| B(Round)
-    B --> C{Decision}
-    C -->|One| D[Result 1]
-    C -->|Two| E[Result 2]
+    A[10 класс]] -->|учеба| B(аттестация)
+    B --> C{11 класс}
+    C -->|хороший исход| D[вуз]
+    C -->|плохой исход| E[армия]
 ```
 
 
