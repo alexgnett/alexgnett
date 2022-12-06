@@ -16,7 +16,7 @@ $$ m_{H_{2}O} =V\cdot \rho_{H_{2}O} $$
     color: #006089 !important;
     border: 5px solid #006089 !important;
     border-radius: 100px !important;
-    font-size: 49px !important;
+    font-size: 14px !important;
     padding: 25px 50px !important; 
     transition: all 0.8s ease !important;
 }
@@ -40,7 +40,7 @@ $$ m_{H_{2}O} =V\cdot \rho_{H_{2}O} $$
     color: #006089 !important;
     border: 5px solid #006089 !important;
     border-radius: 100px !important;
-    font-size: 46px !important;
+    font-size: 14px !important;
     padding: 25px 50px !important; 
     transition: all 0.8s ease !important;
 }
@@ -56,13 +56,13 @@ $$ m_{H_{2}O} =V\cdot \rho_{H_{2}O} $$
 </a>
 
 
-'''mermaid
+```mermaid
 flowchart LR
     A[Hard] -->|Text| B(Round)
     B --> C{Decision}
     C -->|One| D[Result 1]
     C -->|Two| E[Result 2]
-'''
+```
 
 
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/89c3a8d2-ad0b-441f-ade1-c43ee9efbf6f" id=".yJ92SmM-YD3"></iframe></div>
