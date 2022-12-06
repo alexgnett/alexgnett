@@ -32,6 +32,30 @@ $$ m_{H_{2}O} =V\cdot \rho_{H_{2}O} $$
 </a>
 
 
+<style>
+.button_1670306547930 {
+    display: inline-block !important;
+    text-decoration: none !important;
+    background-color: #eaeaea !important;
+    color: #006089 !important;
+    border: 5px solid #006089 !important;
+    border-radius: 100px !important;
+    font-size: 46px !important;
+    padding: 25px 50px !important; 
+    transition: all 0.8s ease !important;
+}
+.button_1670306547930:hover{
+    text-decoration: none !important; 
+    background-color: #006089 !important;
+    color: #ffeded !important;
+    border-color: #006089 !important;
+}
+</style>
+<a href="https://github.com/alexgnett" class="button_1670306547930" target="_blank">
+  мой гитхаб
+</a>
+
+
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/89c3a8d2-ad0b-441f-ade1-c43ee9efbf6f" id=".yJ92SmM-YD3"></iframe></div>
 
 
