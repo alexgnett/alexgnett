@@ -1,5 +1,4 @@
-
-![Без названия](https://user-images.githubusercontent.com/114469293/207238420-25d1df78-acdb-4960-a466-83cca314f931.jpg)
+![коты](https://user-images.githubusercontent.com/114469293/207238529-b487681d-e242-4bad-bd77-b2c2de420a9d.jpg)
 
 # alexgnett.github.io
 Голубцова Александра 
