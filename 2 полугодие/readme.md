@@ -224,3 +224,33 @@ print(count)
 | 98 |  |
 | 99 |  |
 | 100 |  |
+
+```python 
+for i in range(1, 1999999999999):
+    chislo=''
+    num=(bin(i)[2:])
+    if num.count('1' and '0')%2==0:
+        chislo=num[:-2]+'110'
+
+    if num.count('1' and '0')%2!=0:
+        chislo=num[:-2]+'001'
+    if int(chislo,2)>160:
+        print (i, int(chislo,2))
+        break
+
+from turtle import *
+left(90)
+k = 15
+forward(15*k)
+right(90)
+forward (15*k)
+right(135)
+forward (15*2**0.5*k)
+pu ()
+
+for x in range(15):
+    for y in range(15):
+        goto(x*k,y*k)
+        dot(3)
+done()
+```
